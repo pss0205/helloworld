@@ -2,7 +2,11 @@
 
 int main()
 {
-    printf("theworld\n");
+    int i = 3;
+    int j = 5;
+
+    printf("%d\n" , i*j);
+
 }
 //gcc -o name_of_output_file file_name
 
